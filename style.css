@@ -12,3 +12,6 @@
 .dot,.year,.quote-rule{color:#00796B}
 .quote-rule{background:#00796B}
 .jcard:focus-visible,.ecard:focus-visible,.btn:focus-visible,.links a:focus-visible{outline:3px solid #00796B;outline-offset:3px}
+
+/* Research topic images */
+.research-visual .research-topic-image{width:100%;height:100%;object-fit:contain;display:block}
